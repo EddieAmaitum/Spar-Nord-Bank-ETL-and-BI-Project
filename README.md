@@ -17,3 +17,8 @@ In this project, I've developed a batch ETL pipeline that extracts transactional
 **AWS RedShift:** Amazon Redshift is employed for creating tables as per target schema and performing analysis queries on the data to gain insights .
 
 **AWS S3:** Amazon S3 serves as a repository for holding the transformed data with in their respective tables.
+
+## Problem Statement
+* In this project, Spar Nord Bank aims to enhance ATM cash management by closely monitoring withdrawal patterns and the associated influencing factors. 
+* The objective is to optimize the frequency of cash refills, taking into account variables such as ATM activity, geographical location, weather conditions, and the day of the week.
+* Additionally, the project seeks to extract valuable insights from the data beyond just refill frequency optimization.
